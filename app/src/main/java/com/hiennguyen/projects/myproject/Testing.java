@@ -6,4 +6,6 @@ package com.hiennguyen.projects.myproject;
 public class Testing {
     private String name;
     private int version;
+    private String bonus;
+    
 }
